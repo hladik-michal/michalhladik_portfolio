@@ -134,6 +134,7 @@ body {
     flex-direction: column;
     gap: 10px;
     justify-content: center;
+    text-align: center;
   }
 
   .popis{
@@ -165,7 +166,6 @@ body {
     justify-content: center;
     text-align: center;
     color: #8da750;
-    margin-top: 25px;
   }
   #welcome-section p{
     color: #E4EB90;
