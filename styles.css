@@ -133,6 +133,7 @@ body {
   #navbar ul {
     flex-direction: column;
     gap: 10px;
+    justify-content: center;
   }
 
   .popis{
