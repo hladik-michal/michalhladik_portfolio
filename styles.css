@@ -160,7 +160,9 @@ body {
   }
   #welcome-section h1 {
     justify-content: center;
+    text-align: center;
     color: #8da750;
+    padding-top: 25px;
   }
   #welcome-section p{
     color: #E4EB90;
